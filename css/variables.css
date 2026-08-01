@@ -1,0 +1,14 @@
+:root {
+    /* Brand Colors */
+    --primary-color: #c5a059; /* Elegant Gold/Bronze */
+    --primary-dark: #9e7f3d;
+    --bg-dark: #121212;        /* Premium Dark Background */
+    --bg-light: #f9f9f6;       /* Warm Off-White */
+    --text-dark: #222222;
+    --text-light: #ffffff;
+    --gray-light: #e0e0e0;
+    
+    /* Fonts */
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Poppins', sans-serif;
+}
